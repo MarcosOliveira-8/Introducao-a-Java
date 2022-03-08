@@ -2,11 +2,12 @@
 ## Introdução à Programacão com Java 
 Exercicios retirados e adaptados para liguagem JAVA. <br>
 Fonte: MENEZES,Nilo Ney Coutinho Introdução à Programação Python 3ª EDIÇÃO. Editora Novatec 2019.
+<br><br>
 
 <p>
  <a href="#sobre">Sobre</a>  
 
- <a href="#pre-requisito">Pre-Requisito</a> 
+ <a href="#pre-requisito">Pre-Requisito  </a> 
 
  <a href="#instalaçao">Instalação</a>
 
@@ -14,15 +15,17 @@ Fonte: MENEZES,Nilo Ney Coutinho Introdução à Programação Python 3ª EDIÇ�
 
  <a href="#tecnologia">Tecnologia</a>
 </p>
+<br><br>
 
 ## Sobre
 
-   <p>  
+ <p>  
    <ul>
         <li>Esse projeto tem como objetivo contribuir para o aprendizado da linguagem java.
         </li>
    </ul>
-   </p>
+ </p>
+<br><br>
 
 ## pre-requisito 
 
@@ -31,17 +34,20 @@ Fonte: MENEZES,Nilo Ney Coutinho Introdução à Programação Python 3ª EDIÇ�
         <li>Logica de Programação</li>
     </ul>
 </p>
+<br><br>
 
 
 ## instalaçao 
 
 <p>
+ É preciso ter instalado as seguides Ides
     <ul>
         <li>Eclipse</li>
         <li>intellij idea</li>
         <li>JDK</li>
     </ul>
 </p>
+<br><br>
 
 ## tecnologia
 
@@ -51,6 +57,7 @@ Fonte: MENEZES,Nilo Ney Coutinho Introdução à Programação Python 3ª EDIÇ�
         <li>Java</li>
         </ul>
 </p>
+<br><br>
 
 ## ides
 

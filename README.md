@@ -27,7 +27,7 @@ Fonte: MENEZES,Nilo Ney Coutinho Introdução à Programação Python 3ª EDIÇ�
  </p>
 <br><br>
 
-## pre-requisito 
+## Pre-requisito 
 
 <p>
     <ul>
